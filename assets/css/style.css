@@ -1,0 +1,35 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.form, .ticket {
+    background-color: rgb(182, 7, 94);
+    border-radius: 1rem;
+    margin: 1rem;
+}
+
+.input {
+    width: 50px;
+}
+
+.card_input {
+background-color: white;
+padding: 1rem;
+margin-top: 1rem;
+border: 2px solid black;
+border-radius: 1rem;
+}
+
+.btn_input {
+    margin: 2rem 1rem 2rem 1rem;
+    background-color: white;
+    padding: 1rem;
+    border: 2px solid black;
+}
+
+.btn_input:hover {
+    cursor: pointer;
+    background-color: grey;
+}
